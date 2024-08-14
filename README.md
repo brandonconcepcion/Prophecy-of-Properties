@@ -4,6 +4,7 @@ Skills used:
 - Python
 - NumPy
 - Pandas
+- Seaborn
 - Regularization
 - Cross Validation
 - Scikit Learn
