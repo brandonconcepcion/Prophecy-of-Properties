@@ -9,7 +9,7 @@ Tools and Skills:
 - Seaborn
 - Regularization
 - Cross Validation
-- Scikit Learn
-- Multiple Linear Regression
+- Scikit-Learn
+- Multiple Linear Regression (Ordinary Least Squares)
 - Feature Engineering
 - Regular Expressions
